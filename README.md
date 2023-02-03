@@ -1,1 +1,4 @@
-# hemanth_data606
+# UMBC Data Science Capstone Project
+
+- **Author:** Hemanth Doddala
+- **Semester:** Spring 2023
