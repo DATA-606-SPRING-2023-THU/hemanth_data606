@@ -281,6 +281,7 @@
         <b>Recall</b> which is a measure of proportion of the user's preferred movies that have been recommended.
     </li> 
 </p>
+<hr>
 <h4>Web Application:</h4>
 <p>
     <h5>Backend: Django or Flask</h5>
@@ -296,6 +297,7 @@
     <li>Angular Framework will be used to develop frontend of the movie recommendation system.</li>
     <li>HTTP-Client module in angular would be used to make REST API calls</li>
 </p>
+<hr>
 <h3>Web Application Functional Overview</h3>
 
 <h4>Main Screen or Home Page Layout</h4>
