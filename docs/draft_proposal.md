@@ -298,4 +298,5 @@
 </p>
 <h3>Web Application Functional Overview</h3>
 <h4>Main Screen or Home Page Layout</h4>
+
 ![First_Screen](https://user-images.githubusercontent.com/70106378/218250439-a1853593-9055-423f-9fb2-1872d5e0ca3f.jpg)
