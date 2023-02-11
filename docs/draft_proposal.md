@@ -314,13 +314,20 @@
 <p>
     <ol>
         <li>Clicking Existing user recommendation will navigate us to this screen.</li>
-        <li>Application user will be presented with 2 dropdowns where 1st dropdown is used to select existing user and 2nd dropdown is used to select type of recommendation i.e. </li>
-        <li>After </li>
+        <li>Application user will be presented with 2 dropdowns. First dropdown is used to select existing user and second dropdown is used to select type of recommendation i.e. Content based, Collaborative etc</li>
+        <li>After selecting the options on the dropdown and clicking on Get Recommendations will fetch movie recommendation on right side of the screen.</li>
     </ol>
 </p>
 
 ![image](https://user-images.githubusercontent.com/70106378/218270197-7a40a857-4ae7-417b-b308-3f365ecd4528.png)
 
 <h4>New User Movie Recommendation</h4>
+<p>
+  <ol>
+      <li>Clicking on New User Recommendation will navigate us to this screen.</li>
+    <li>User is presented with a searchable dropdown where he can enter movie name which is present in the dataset</li>
+    <li>After selecting the movie from the dropdown and clicking on Get Recommendations will fetch top rated movies and similar movies to the selected movie in the dropdown</li>
+  </ol>
+</p>
 
 ![NewUserRecommendationScreen](https://user-images.githubusercontent.com/70106378/218270228-68af81a7-eed5-4ad4-8049-9f8549235580.jpg)
