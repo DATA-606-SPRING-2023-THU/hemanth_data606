@@ -297,11 +297,27 @@
     <li>HTTP-Client module in angular would be used to make REST API calls</li>
 </p>
 <h3>Web Application Functional Overview</h3>
-<h4>Main Screen or Home Page Layout</h4>
 
-![First_Screen](https://user-images.githubusercontent.com/70106378/218250439-a1853593-9055-423f-9fb2-1872d5e0ca3f.jpg)
+<h4>Main Screen or Home Page Layout</h4>
+<p>
+    Movie Recommendation has two flows i.e.
+    <ol>
+        <li>Movie recommendation for existing users</li>
+        <li>Movie recommendation for new users</li>
+    </ol>
+    Selecting an option from main screen will navigate us to respectice screen 
+</p>
+
+![image](https://user-images.githubusercontent.com/70106378/218270441-9383cf82-65d3-4ffa-89f8-7f63e823c30e.png)
 
 <h4>Movie Recommendation for Existing User</h4>
+<p>
+    <ol>
+        <li>Clicking Existing user recommendation will navigate us to this screen.</li>
+        <li>Application user will be presented with 2 dropdowns where 1st dropdown is used to select existing user and 2nd dropdown is used to select type of recommendation i.e. </li>
+        <li>After </li>
+    </ol>
+</p>
 
 ![image](https://user-images.githubusercontent.com/70106378/218270197-7a40a857-4ae7-417b-b308-3f365ecd4528.png)
 
