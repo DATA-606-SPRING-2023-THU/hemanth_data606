@@ -300,3 +300,11 @@
 <h4>Main Screen or Home Page Layout</h4>
 
 ![First_Screen](https://user-images.githubusercontent.com/70106378/218250439-a1853593-9055-423f-9fb2-1872d5e0ca3f.jpg)
+
+<h4>Movie Recommendation for Existing User</h4>
+
+![image](https://user-images.githubusercontent.com/70106378/218270197-7a40a857-4ae7-417b-b308-3f365ecd4528.png)
+
+<h4>New User Movie Recommendation</h4>
+
+![NewUserRecommendationScreen](https://user-images.githubusercontent.com/70106378/218270228-68af81a7-eed5-4ad4-8049-9f8549235580.jpg)
