@@ -268,7 +268,7 @@
 <ol>
     <li>Pandas or SQL</li>
     <li>K-Nearest Neighbors</li>
-    <li>Deep Neurak Networks with number of hidden layers and experiment with different activation functions</li>
+    <li>Deep Neural Networks with number of hidden layers and experiment with different activation functions</li>
 </ol>
 <h4>
     Model Evaluation:
