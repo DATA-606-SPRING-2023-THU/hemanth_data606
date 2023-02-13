@@ -1,4 +1,4 @@
-<h2 style="text-align:center">Movie Recommedation System (Draft Proposal)</h2>
+<h2 style="text-align:center">Movie Recommedation System (Final Proposal)</h2>
 <h3>Abstract:</h3>
 <p style="text-align: justify;
   text-justify: inter-word">
