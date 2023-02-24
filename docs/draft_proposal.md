@@ -299,7 +299,7 @@
 </p>
 <br>
 <p>or</p>
-<p>Use Streamlit</p>
+<b>Use Streamlit</b>
 <hr>
 <h3>Web Application Functional Overview</h3>
 
