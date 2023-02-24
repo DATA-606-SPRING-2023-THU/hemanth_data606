@@ -297,6 +297,8 @@
     <li>Angular Framework will be used to develop frontend of the movie recommendation system.</li>
     <li>HTTP-Client module in angular would be used to make REST API calls</li>
 </p>
+<br>
+<b>or Streamlit</b>
 <hr>
 <h3>Web Application Functional Overview</h3>
 
