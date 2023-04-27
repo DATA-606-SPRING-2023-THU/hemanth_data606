@@ -1,0 +1,42 @@
+<div>
+  <div>
+    <mat-toolbar color="primary" style="width:100%;height: 200px;">
+      <mat-toolbar-row>
+        <div class="welcome-div" style="width:100%;vertical-align: middle;">
+          <h1 class="caption" 
+          style="
+          padding-top: 170px;
+          text-align: center; 
+          font-size: 100px; 
+          font-weight: 600;
+          font-family: cursive;">Flixify</h1>
+        </div>
+      </mat-toolbar-row>
+    </mat-toolbar>
+  </div>
+  <div class="row container-fluid p-5">
+    <h1 style="font-weight: 500;">Flixify</h1>
+    <h4 style="text-align: justify;">
+    A movie recommendation system that helps you find movies that you will love. 
+    You can explore movies by genres, popularity. You can also search for similar movies.
+    </h4>
+  </div>
+  <div  class="row container-fluid" style="padding-top:30px; padding-left:15px">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+      <app-rating-distribution></app-rating-distribution>
+    </div>
+    <div class="col-lg-8 col-md-6 col-sm-12">
+      <app-genre-treemap></app-genre-treemap>
+    </div>
+  </div>
+  <div class="row container-fluid" style="padding-top:30px; padding-left:15px">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+      <app-movie-piechart></app-movie-piechart>
+    </div>
+    <div class="col-lg-8 col-md-6 col-sm-12">
+      <app-movie-popularity-line-chart></app-movie-popularity-line-chart>
+    </div>
+  </div>
+  <div class="row container-fluid" style="padding-top:30px; padding-left:15px">
+  </div>
+</div>
