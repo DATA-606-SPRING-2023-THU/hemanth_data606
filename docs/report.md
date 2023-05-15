@@ -291,13 +291,17 @@ In this project, I have successfully developed a comprehensive movie recommendat
     <p style="text-align:justify;">
         The dashboard page of our web application provides users with essential information about the dataset used in our movie recommendation system. It offers insights into the size of the dataset, including the number of movies and users, as well as statistical summaries such as average ratings and popular genres. This page serves as a quick overview and helps users understand the scope and diversity of the available movie recommendations.
     </p>
+    ![image](https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/cec7c658-6c34-4ee1-96fa-6ccb1da36bb6)
+    ![image](https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/cfdad3d5-eaf4-4561-a0d3-b4e8f0edf89b)
     <h5>New User Recommendation</h5>
     <p style="text-align:justify;">
         The new user recommendation page caters specifically to users who are not present in the existing dataset. These users can utilize this page to receive personalized movie recommendations tailored to their preferences. The page offers a dropdown menu that allows users to choose from different recommendation types, such as top-rated movies, top-rated movies by genre, and similar movie recommendations. By selecting a specific recommendation type, users can quickly discover movies that align with their tastes, even without having a prior history of ratings within the system.
     </p>
+    ![image](https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/48820521-fa80-417f-a01b-035e39503b61)
     <h5>Existing User Recommendation</h5>
     <p style="text-align:justify;">
     The existing user recommendation page is designed for users who are already present in the dataset and have a history of movie ratings. This page offers a dropdown menu that enables users to select from different recommendation types. The available options include similar movie recommendations, collaborative filtering using Singular Value Decomposition (SVD), and collaborative filtering using neural networks. Users can choose a recommendation type based on their preferences and desired level of personalization. This page empowers existing users to explore different recommendation techniques and further refine their movie-watching experience based on their past interactions with the system.</p>
+    ![image](https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/104564d4-a62f-49a1-ab12-94b47bf0e22f)
 </div>
 <br>
 <div>
