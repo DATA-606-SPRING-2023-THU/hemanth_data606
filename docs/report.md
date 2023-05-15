@@ -4,12 +4,10 @@
     <table>
         <tr>
             <td><b>Name</b></td>
-            <td>:</td>
             <td>Hemanth</td>
         </tr>
         <tr>
             <td><b>Campus ID</b></td>
-            <td>:</td>
             <td>TK76375</td>
         </tr>
     </table>
@@ -26,6 +24,16 @@
 <div>
     <h3>Objective:</h3>
     <p style="text-align:justify;">The major goal of this project is to create an intelligent movie recommendation system capable of successfully analyzing user preferences and providing customised movie recommendations. We hope to construct a recommendation engine that can reliably anticipate user preferences and deliver personalised suggestions by exploiting the rich Movielens dataset, which comprises a comprehensive collection of movie ratings and user information.</p>
+</div>
+
+<div>
+    <h3>Links:</h3>
+    <h5>Presentation:</h5>
+    <a href="https://github.com/hemanthdoddala/hemanth_data606/blob/master/docs/Final%20Presentation.pptx" style="color:blue;text-decoration:none"><b>https://github.com/hemanthdoddala/hemanth_data606/blob/master/docs/Final%20Presentation.pptx</b></a>
+    <h5>Youtube Presentation:</h5>
+    <a href="https://github.com/hemanthdoddala/hemanth_data606/blob/master/docs/Final%20Presentation.pptx" style="color:blue;text-decoration:none"><b>https://github.com/hemanthdoddala/hemanth_data606/blob/master/docs/Final%20Presentation.pptx</b></a>
+    <h5>Deployed Application:</h5>
+    <a href="https://superherohd.com/" style="color:blue;text-decoration:none"><b>https://superherohd.com/</b></a>
 </div>
 
 <div>
@@ -280,8 +288,16 @@ In this project, I have successfully developed a comprehensive movie recommendat
 <div>
     <h3>User Interface:</h3>
     <h5>Dashboard</h5>
+    <p style="text-align:justify;">
+        The dashboard page of our web application provides users with essential information about the dataset used in our movie recommendation system. It offers insights into the size of the dataset, including the number of movies and users, as well as statistical summaries such as average ratings and popular genres. This page serves as a quick overview and helps users understand the scope and diversity of the available movie recommendations.
+    </p>
     <h5>New User Recommendation</h5>
+    <p style="text-align:justify;">
+        The new user recommendation page caters specifically to users who are not present in the existing dataset. These users can utilize this page to receive personalized movie recommendations tailored to their preferences. The page offers a dropdown menu that allows users to choose from different recommendation types, such as top-rated movies, top-rated movies by genre, and similar movie recommendations. By selecting a specific recommendation type, users can quickly discover movies that align with their tastes, even without having a prior history of ratings within the system.
+    </p>
     <h5>Existing User Recommendation</h5>
+    <p style="text-align:justify;">
+    The existing user recommendation page is designed for users who are already present in the dataset and have a history of movie ratings. This page offers a dropdown menu that enables users to select from different recommendation types. The available options include similar movie recommendations, collaborative filtering using Singular Value Decomposition (SVD), and collaborative filtering using neural networks. Users can choose a recommendation type based on their preferences and desired level of personalization. This page empowers existing users to explore different recommendation techniques and further refine their movie-watching experience based on their past interactions with the system.</p>
 </div>
 <br>
 <div>
