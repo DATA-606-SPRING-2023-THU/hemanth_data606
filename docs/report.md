@@ -258,9 +258,13 @@
 <div>
     <h3>Exploratory Data Analysis:</h3>
     <h5>User's Rating distribution</h5>
+    <img width="1371" src="https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/0b509a0c-48c7-4bf4-ba6c-7375363c731e">
     <h5>Treemap of movies by Genre</h5>
+    <img width="1371" src="https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/b81a908d-022e-4a19-83d7-09f79c8e8b58">
     <h5>Rating Distribution of Movies</h5>
+    <img width="1371" src="https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/d216292e-6333-4441-9284-4c9608eca1ad">
     <h5>Most Watched Movies</h5>
+    <img width="1371" src="https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/1720c09f-c40f-41a0-9a78-331c02b8577a">
 </div>
 <br>
 <div>
