@@ -302,6 +302,7 @@ In this project, I have successfully developed a comprehensive movie recommendat
     <p style="text-align:justify;">
     The existing user recommendation page is designed for users who are already present in the dataset and have a history of movie ratings. This page offers a dropdown menu that enables users to select from different recommendation types. The available options include similar movie recommendations, collaborative filtering using Singular Value Decomposition (SVD), and collaborative filtering using neural networks. Users can choose a recommendation type based on their preferences and desired level of personalization. This page empowers existing users to explore different recommendation techniques and further refine their movie-watching experience based on their past interactions with the system.</p>
     ![image](https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/104564d4-a62f-49a1-ab12-94b47bf0e22f)
+    <img width="1371" src="https://github.com/hemanthdoddala/hemanth_data606/assets/70106378/104564d4-a62f-49a1-ab12-94b47bf0e22f">
 </div>
 <br>
 <div>
